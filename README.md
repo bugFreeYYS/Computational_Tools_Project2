@@ -15,3 +15,11 @@ implement reservoir sampling given that domain and ip are given at run time inst
 
 problem:
 need some testing on accuracy cos seems that i do not get multiple ips on the same domain. (up to 1 * 10^6 streaming data)
+
+# 4 Nov (yuesong)
+
+1. HyperLogLog bugs are fixed. should be up and running.
+2. HyperLogLog are updated to match wiki implementation which avoid many problems occurred previously.
+3. HyperLogLog at scale is implemented
+4. Countmin at scale is implemented
+5. Reservoir sampling is replaced by Countmin at scale for qn 3. seems reservoir sampling is not appropriate. still keep the implementation for further uses.
