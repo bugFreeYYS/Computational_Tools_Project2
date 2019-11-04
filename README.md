@@ -33,3 +33,7 @@ need some testing on accuracy cos seems that i do not get multiple ips on the sa
 1. implement qn 4 and 5:
     - How many unique IPs are there for the domains  𝑑1,𝑑2,… ?
     - How many times was IP X seen on domains  𝑑1,𝑑2,… ?
+    
+# 4 Nov(qing)
+implement the accuracy of countMin function
+will check with ziyue tmr evening 
