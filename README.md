@@ -28,3 +28,8 @@ need some testing on accuracy cos seems that i do not get multiple ips on the sa
 1. readablity improvements including small tweaks to the HyperLogLog & CountMean function
 2. HyperLogLog: list index out of range error starts to appear for stream sizes >= 15692
 3. Will complete analysis tmr
+
+# 4 Nov evening (ziyue)
+1. implement qn 4 and 5:
+    - How many unique IPs are there for the domains  𝑑1,𝑑2,… ?
+    - How many times was IP X seen on domains  𝑑1,𝑑2,… ?
