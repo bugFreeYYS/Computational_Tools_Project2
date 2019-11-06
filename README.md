@@ -37,3 +37,6 @@ need some testing on accuracy cos seems that i do not get multiple ips on the sa
 # 4 Nov(qing)
 implement the accuracy of countMin function
 will check with ziyue tmr evening 
+
+# 6 Nov (ziyue)
+1. add code cell to install pymmh3 and scipy (feedback from the last assignment)
