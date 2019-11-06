@@ -40,3 +40,5 @@ will check with ziyue tmr evening
 
 # 6 Nov (ziyue)
 1. add code cell to install pymmh3 and scipy (feedback from the last assignment)
+2. merge countMin() and getResult() into one function (q2 and q4)
+3.
