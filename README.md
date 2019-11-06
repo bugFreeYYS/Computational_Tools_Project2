@@ -41,4 +41,6 @@ will check with ziyue tmr evening
 # 6 Nov (ziyue)
 1. add code cell to install pymmh3 and scipy (feedback from the last assignment)
 2. merge countMin() and getResult() into one function (q2 and q4)
-3.
+3. q5 topX most frequent IP implemented.
+
+# ISSUE: Q5 topX does not handle a draw. e.g. if the 9th, 10th and 11th IP all have an occurrence of 5 times, the current algorithm will only take 10 elements. The 11th IP won't be included even though its count is in the top 10 highest. I will try resolve it tonight/tmr
