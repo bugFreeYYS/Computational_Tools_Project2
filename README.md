@@ -46,3 +46,7 @@ will check with ziyue tmr evening
 # 7 Nov (ziyue)
 1. fix q5, now the topX algo is able to dynamically adjust its size to resolve ties. yay :)
 2. implement exact counts dictionary {domain1 : {IP1 : occurrences1, IP2 : occurrences2, ...}, domain2: {IP1 : occurrences1, ...}, ...}
+
+# 8th Nov (yuesong)
+1. def getResult(stream, IP_X, Domain_Y, w=16, d=5), if we have stream, X and Y at the beginning, we should not build dictionary. we just filter Y and count distinct X. So i guess, ....
+2. topX seems need to store IPs into a dictionary. I am not sure if streaming allows it. I have implemented a different version.
