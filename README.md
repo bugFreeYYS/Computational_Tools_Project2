@@ -45,3 +45,4 @@ will check with ziyue tmr evening
 
 # 7 Nov (ziyue)
 1. fix q5, now the topX algo is able to dynamically adjust its size to resolve ties. yay :)
+2. implement exact counts dictionary {domain1 : {IP1 : occurrences1, IP2 : occurrences2, ...}, domain2: {IP1 : occurrences1, ...}, ...}
