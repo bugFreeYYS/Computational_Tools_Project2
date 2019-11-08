@@ -50,3 +50,8 @@ will check with ziyue tmr evening
 # 8th Nov (yuesong)
 1. def getResult(stream, IP_X, Domain_Y, w=16, d=5), if we have stream, X and Y at the beginning, we should not build dictionary. we just filter Y and count distinct X. So i guess, ....
 2. topX seems need to store IPs into a dictionary. I am not sure if streaming allows it. I have implemented a different version.
+
+# 8th Nov (yuesong)
+1. section 1 and 2 cleaned. done.
+2. left with analysis of accuracy.
+
