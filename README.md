@@ -53,5 +53,5 @@ will check with ziyue tmr evening
 
 # 8th Nov (yuesong)
 1. section 1 and 2 cleaned. done.
-2. left with analysis of accuracy.
+2. analysis of accuracy: seems none of the estimates are accurate..
 
