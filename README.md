@@ -56,5 +56,9 @@ will check with ziyue tmr evening
 2. analysis of accuracy: seems none of the estimates are accurate..
 
 # 9th Nov(qing)
-
 argue for the parameters
+
+# 9th Nov (ziyue)
+1. formatting
+2. visualization and anlaysis of accuracy (needs double check)
+3. will look through the choice of parameters section later at night
