@@ -55,3 +55,6 @@ will check with ziyue tmr evening
 1. section 1 and 2 cleaned. done.
 2. analysis of accuracy: seems none of the estimates are accurate..
 
+# 9th Nov(qing)
+
+argue for the parameters
