@@ -62,3 +62,9 @@ argue for the parameters
 1. formatting
 2. visualization and anlaysis of accuracy (needs double check)
 3. will look through the choice of parameters section later at night
+
+# 10th Nov (ziyue)
+1. choice of parameters
+2. change w and d 
+3. ISSUE: ties not resolved for the topX algorithm that's supposed to return the exact value.
+4. Q5 analysis key error: a wrong estimate should not lead to the conclusion that the algo gives wrong estimates? 
